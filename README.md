@@ -11,8 +11,6 @@ I have a strong foundation in backend development, enriched by my adventures in 
 ![](https://img.shields.io/badge/Code-Kotlin-7F52FF.svg?style=flat-square&logo=kotlin)
 ![](https://img.shields.io/badge/Web-Angular-DD0031.svg?style=flat-square&logo=angular)
 ![](https://img.shields.io/badge/Cloud-GCP-4285F4.svg?style=flat-square&logo=google-cloud)
-
-
 ![](https://img.shields.io/badge/Framework-Spring-brightgreen.svg?style=flat-square&logo=spring)
 ![](https://img.shields.io/badge/Framework-Quarkus-4695EB.svg?style=flat-square&logo=quarkus)
 ![](https://img.shields.io/badge/Framework-Micronaut-blue.svg?style=flat-square&logo=micronaut)
