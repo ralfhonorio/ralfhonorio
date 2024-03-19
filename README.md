@@ -1,5 +1,5 @@
-Copy code
-# Hello, I'm [Your Name]! 👋
+
+# Hello, I'm Ralf Honorio 👋
 
 Welcome to my GitHub profile! As a seasoned Java developer with more than 15 years of experience, I am deeply passionate about creating robust and scalable applications. My journey in the tech industry has equipped me with a vast skill set, primarily focusing on Java and leveraging frameworks like Spring, Micronaut, and Quarkus to solve complex business challenges. 
 
@@ -27,8 +27,13 @@ I have a strong foundation in backend development, enriched by my adventures in 
   </tr>
 </table>
 
-## 📫 How to reach me:
-- LinkedIn: [Your LinkedIn](https://linkedin.com)
-- Email: your.email@example.com
+- **LinkedIn**: [![LinkedIn](https://example.com/linkedin-emoji.png)](https://linkedin.com/in/yourprofile)
+- **Email**: [![Email](https://example.com/email-emoji.png)](mailto:your.email@example.com)
+
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
 
 Feel free to browse my repositories and reach out if you have any questions or collaboration ideas!
