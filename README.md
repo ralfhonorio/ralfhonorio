@@ -27,6 +27,10 @@ I have a strong foundation in backend development, enriched by my adventures in 
   </tr>
 </table>
 
+![](https://img.shields.io/badge/Framework-Spring-brightgreen.svg?style=flat-square&logo=spring)
+![](https://img.shields.io/badge/Framework-Quarkus-4695EB.svg?style=flat-square&logo=quarkus)
+![](https://img.shields.io/badge/Framework-Micronaut-blue.svg?style=flat-square&logo=micronaut)
+
 ## 📫 How to reach me:
 
 - :briefcase: LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
