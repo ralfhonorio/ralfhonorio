@@ -6,26 +6,6 @@ Welcome to my GitHub profile! As a seasoned Java developer with more than 15 yea
 I have a strong foundation in backend development, enriched by my adventures in other languages, including Kotlin and JavaScript. My expertise extends to both on-premise and cloud infrastructures, with a particular emphasis on Google Cloud Platform (GCP), where I have deployed and managed scalable, efficient solutions.
 
 ## 🔧 Technologies & Tools
-<table>
-  <tr>
-    <td align="center">
-      <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="100" height="100"/>
-      <br />Java
-    </td>
-    <td align="center">
-      <img alt="Kotlin" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="100" height="100"/>
-      <br />Kotlin
-    </td>
-    <td align="center">
-      <img alt="GCP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="100" height="100"/>
-      <br />GCP
-    </td>
-    <td align="center">
-      <img alt="Angular" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="100" height="100"/>
-      <br />Angular
-    </td>
-  </tr>
-</table>
 
 ![](https://img.shields.io/badge/Code-Java-ED8B00.svg?style=flat-square&logo=java)
 ![](https://img.shields.io/badge/Code-Kotlin-7F52FF.svg?style=flat-square&logo=kotlin)
