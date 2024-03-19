@@ -27,9 +27,10 @@ I have a strong foundation in backend development, enriched by my adventures in 
   </tr>
 </table>
 
-- **LinkedIn**: [![LinkedIn](https://example.com/linkedin-emoji.png)](https://linkedin.com/in/yourprofile)
-- **Email**: [![Email](https://example.com/email-emoji.png)](mailto:your.email@example.com)
+## 📫 How to reach me:
 
+- :briefcase: LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- :email: Email: <your.email@example.com>
 
 ## 📈 GitHub Stats
 
