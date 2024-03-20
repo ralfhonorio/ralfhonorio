@@ -18,8 +18,8 @@ I have a strong foundation in backend development, enriched by my adventures in 
         <img src="https://img.shields.io/badge/Framework-Spring-brightgreen.svg?style=flat-square&logo=spring" alt="Spring"/>
         <img src="https://img.shields.io/badge/Framework-Quarkus-4695EB.svg?style=flat-square&logo=quarkus" alt="Quarkus"/>
         <img src="https://img.shields.io/badge/Framework-Micronaut-blue.svg?style=flat-square&logo=micronaut" alt="Micronaut"/>
-        <img src="https://badgen.net/badge/JVM/red" alt="JVM"/>
-        <img src="https://badgen.net/badge/GRAALVM/orange" alt="GraalVM"/>
+        <img src="https://badgen.net/badge/VM/JVM/red" alt="JVM"/>
+        <img src="https://badgen.net/badge/VM/GRAALVM/orange" alt="GraalVM"/>
     </div>
 </div>
 
