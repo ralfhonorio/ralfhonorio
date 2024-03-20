@@ -29,6 +29,10 @@ I have a strong foundation in backend development, enriched by my adventures in 
 - :briefcase: LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 - :email: Email: <your.email@example.com>
 
+[![Blog on Dev.to](https://img.shields.io/badge/Blog-Dev.to-0A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white)](Your_Dev.to_Profile_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](Your_LinkedIn_Profile_URL)
+[![Email](https://img.shields.io/badge/Email-me-brightgreen.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:Your_Email_Address)
+
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
