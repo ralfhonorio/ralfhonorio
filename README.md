@@ -7,17 +7,40 @@ I have a strong foundation in backend development, enriched by my adventures in 
 
 ## 🔧 Technologies & Tools
 
-<div style="display:inline_block">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Framework-Spring-brightgreen.svg?style=flat-square&logo=spring" alt="Spring"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Framework-Quarkus-4695EB.svg?style=flat-square&logo=quarkus" alt="Quarkus"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Framework-Micronaut-blue.svg?style=flat-square&logo=micronaut" alt="Micronaut"/>
+    </td>
+    <td align="center">
+      <img src="https://badgen.net/badge/framework/JVM/red" alt="JVM"/>
+    </td>
+    <td align="center">
+      <img src="https://badgen.net/badge/framework/GRAALVM/orange" alt="GraalVM"/>
+    </td>
+  </tr>
+</table>
 
-![](https://img.shields.io/badge/Framework-Spring-brightgreen.svg?style=flat-square&logo=spring)
-![](https://img.shields.io/badge/Framework-Quarkus-4695EB.svg?style=flat-square&logo=quarkus)
-![](https://img.shields.io/badge/Framework-Micronaut-blue.svg?style=flat-square&logo=micronaut)
-![](https://badgen.net/badge/framework/JVM/red)
-![](https://badgen.net/badge/framework/GRAALVM)
 
 ## 📫 How to reach me:
 
