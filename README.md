@@ -14,6 +14,8 @@ I have a strong foundation in backend development, enriched by my adventures in 
 ![](https://img.shields.io/badge/Framework-Spring-brightgreen.svg?style=flat-square&logo=spring)
 ![](https://img.shields.io/badge/Framework-Quarkus-4695EB.svg?style=flat-square&logo=quarkus)
 ![](https://img.shields.io/badge/Framework-Micronaut-blue.svg?style=flat-square&logo=micronaut)
+![GraalVM](https://img.shields.io/badge/-GraalVM-orange.svg)
+![JVM](https://img.shields.io/badge/-JVM-blue.svg)
 
 ## 📫 How to reach me:
 
