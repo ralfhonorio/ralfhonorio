@@ -9,13 +9,11 @@ I have a strong foundation in backend development, enriched by my adventures in 
 
 div style="display:inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 
-![](https://img.shields.io/badge/Code-Java-ED8B00.svg?style=flat-square&logo=java)
-![](https://img.shields.io/badge/Code-Kotlin-7F52FF.svg?style=flat-square&logo=kotlin)
-![](https://img.shields.io/badge/Web-Angular-DD0031.svg?style=flat-square&logo=angular)
-![](https://img.shields.io/badge/Cloud-GCP-4285F4.svg?style=flat-square&logo=google-cloud)
+
 ![](https://img.shields.io/badge/Framework-Spring-brightgreen.svg?style=flat-square&logo=spring)
 ![](https://img.shields.io/badge/Framework-Quarkus-4695EB.svg?style=flat-square&logo=quarkus)
 ![](https://img.shields.io/badge/Framework-Micronaut-blue.svg?style=flat-square&logo=micronaut)
