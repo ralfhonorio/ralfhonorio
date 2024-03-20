@@ -6,7 +6,8 @@ Welcome to my GitHub profile! Let me share a bit about myself:
 - 📍 **Location**: Guarulhos, São Paulo, Brazil
 - 💼 **Profession**: Back-end Engineer (Mainly Java & Kotlin)
 - 🎵 **Interest**: Musician and Bass Player
-  
+
+  <br />
 
 ## 🔧 Technologies & Tools
 <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px;">
@@ -25,6 +26,7 @@ Welcome to my GitHub profile! Let me share a bit about myself:
     </div>
 </div>
 
+<br />
 
 ## 📫 How to reach me:
 
@@ -32,9 +34,12 @@ Welcome to my GitHub profile! Let me share a bit about myself:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](Your_LinkedIn_Profile_URL)
 [![Email](https://img.shields.io/badge/Email-me-red.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Your_Email_Address)
 
+<br />
+
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ralfhonorio&show_icons=true&theme=tokyonight)
 
+<br />
 
 Feel free to browse my repositories and reach out if you have any questions or collaboration ideas!
