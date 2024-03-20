@@ -1,9 +1,11 @@
         
 # Hello, I'm Ralf Honorio 👋
 
-Welcome to my GitHub profile! As a seasoned Java developer with more than 15 years of experience, I am deeply passionate about creating robust and scalable applications. My journey in the tech industry has equipped me with a vast skill set, primarily focusing on Java and leveraging frameworks like Spring, Micronaut, and Quarkus to solve complex business challenges. 
+Welcome to my GitHub profile! Let me share a bit about myself:
 
-I have a strong foundation in backend development, enriched by my adventures in other languages, including Kotlin and JavaScript. My expertise extends to both on-premise and cloud infrastructures, with a particular emphasis on Google Cloud Platform (GCP), where I have deployed and managed scalable, efficient solutions.
+- 📍 **Location**: Guarulhos, São Paulo, Brazil
+- 💼 **Profession**: Back-end Engineer (Mainly Java & Kotlin)
+- 🎵 **Interest**: Musician and Bass Player
 
 ## 🔧 Technologies & Tools
 <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px;">
