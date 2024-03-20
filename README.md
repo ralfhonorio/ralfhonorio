@@ -6,6 +6,7 @@ Welcome to my GitHub profile! Let me share a bit about myself:
 - 📍 **Location**: Guarulhos, São Paulo, Brazil
 - 💼 **Profession**: Back-end Engineer (Mainly Java & Kotlin)
 - 🎵 **Interest**: Musician and Bass Player
+  
 
 ## 🔧 Technologies & Tools
 <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px;">
