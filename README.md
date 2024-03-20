@@ -13,6 +13,8 @@ I have a strong foundation in backend development, enriched by my adventures in 
         <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
         <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
         <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white” alt=”Spring”/>
+
     </div>
     <div style="display:flex; justify-content:center; gap:10px;">
         <img src="https://img.shields.io/badge/Framework-Spring-brightgreen.svg?style=flat-square&logo=spring" alt="Spring"/>
