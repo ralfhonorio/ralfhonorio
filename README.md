@@ -15,7 +15,6 @@ I have a strong foundation in backend development, enriched by my adventures in 
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
     </div>
     <div style="display:flex; justify-content:center; gap:10px;">
-        <img src="https://img.shields.io/badge/Framework-Spring-brightgreen.svg?style=flat-square&logo=spring" alt="Spring"/>
         <img src="https://img.shields.io/badge/Framework-Quarkus-4695EB.svg?style=flat-square&logo=quarkus" alt="Quarkus"/>
         <img src="https://img.shields.io/badge/Framework-Micronaut-blue.svg?style=flat-square&logo=micronaut" alt="Micronaut"/>
         <img src="https://badgen.net/badge/VM/JVM/red" alt="JVM"/>
@@ -26,12 +25,11 @@ I have a strong foundation in backend development, enriched by my adventures in 
 
 ## 📫 How to reach me:
 
-- :briefcase: LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- :email: Email: <your.email@example.com>
+
 
 [![Blog on Dev.to](https://img.shields.io/badge/Blog-Dev.to-0A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white)](Your_Dev.to_Profile_URL)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](Your_LinkedIn_Profile_URL)
-[![Email](https://img.shields.io/badge/Email-me-brightgreen.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:Your_Email_Address)
+[![Email](https://img.shields.io/badge/Email-me-red.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Your_Email_Address)
 
 ## 📈 GitHub Stats
 
