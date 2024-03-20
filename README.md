@@ -7,40 +7,17 @@ I have a strong foundation in backend development, enriched by my adventures in 
 
 ## 🔧 Technologies & Tools
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Framework-Spring-brightgreen.svg?style=flat-square&logo=spring" alt="Spring"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Framework-Quarkus-4695EB.svg?style=flat-square&logo=quarkus" alt="Quarkus"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Framework-Micronaut-blue.svg?style=flat-square&logo=micronaut" alt="Micronaut"/>
-    </td>
-    <td align="center">
-      <img src="https://badgen.net/badge/framework/JVM/red" alt="JVM"/>
-    </td>
-    <td align="center">
-      <img src="https://badgen.net/badge/framework/GRAALVM/orange" alt="GraalVM"/>
-    </td>
-  </tr>
-</table>
-
+<div style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap; gap:10px;">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+    <img src="https://img.shields.io/badge/Framework-Spring-brightgreen.svg?style=flat-square&logo=spring" alt="Spring"/>
+    <img src="https://img.shields.io/badge/Framework-Quarkus-4695EB.svg?style=flat-square&logo=quarkus" alt="Quarkus"/>
+    <img src="https://img.shields.io/badge/Framework-Micronaut-blue.svg?style=flat-square&logo=micronaut" alt="Micronaut"/>
+    <img src="https://badgen.net/badge/framework/JVM/red" alt="JVM"/>
+    <img src="https://badgen.net/badge/framework/GRAALVM/orange" alt="GraalVM"/>
+</div>
 
 ## 📫 How to reach me:
 
