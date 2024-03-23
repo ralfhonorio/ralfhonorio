@@ -30,7 +30,7 @@ Welcome to my GitHub profile! Let me share a bit about myself:
 
 ## 📫 How to reach me:
 
-[![Blog on Dev.to](https://img.shields.io/badge/Blog-Dev.to-0A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https//ralfhonorio.dev)
+[![Blog](https://img.shields.io/badge/Blog-Dev.to-0A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://ralfhonorio.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ralfhonorio)
 [![Email](https://img.shields.io/badge/Email-me-red.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ralfhonorio.dev@gmail.com)
 
